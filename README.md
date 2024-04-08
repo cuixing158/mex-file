@@ -12,8 +12,8 @@ In order to call external C/C++ library functions, it is generally recommended t
 
 ## Requirements
 
-- MATLAB
-- Matlab Coder toolbox
+- MATLAB®
+- Matlab Coder toolbox™
 - [Supported and Compatible Compilers](https://ww2.mathworks.cn/en/support/requirements/supported-compilers.html)
 - Your External C/C++ Library(This example uses OpenCV as an example)
 
